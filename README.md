@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=160&section=header&text=Hissa&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Frontend%20%26%20Mobile%20Developer&descAlignY=62&descColor=cccccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=160&section=header&text=Hissa&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Frontend%20%26%20Mobile%20Developer&descAlignY=62&descColor=cccccc" />
 </div>
 
 <br />
@@ -45,7 +45,7 @@
 
 **Stack:** React · Next.js · TypeScript · Tailwind CSS · PostgreSQL · Prisma
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/savesmart)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simple46/savesmart)
 
 ---
 
@@ -54,7 +54,7 @@
 
 **Stack:** React · Next.js · TypeScript · Tailwind CSS
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/mealmatch)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simple46/mealmatch)
 
 ---
 
@@ -63,15 +63,15 @@
 
 **Stack:** React · Next.js · TypeScript · Leaflet.js · Tailwind CSS
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/worldwise)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simple46/worldwise)
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simple46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simple46&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
   <a href="https://linkedin.com/in/yourlinkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:olayiwolahissa484@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com">
