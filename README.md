@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=150&section=header&text=Hi,%20I'm%20Hissa&fontSize=45&fontColor=ffffff&fontAlignY=45" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&background=0F0C2900&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hissa;Frontend+%26+Mobile+Developer;Building+purposeful+products" alt="Typing SVG" />
 </div>
 
 <br />
@@ -69,9 +69,16 @@
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simple46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simple46&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Simple46&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Simple46&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
