@@ -45,7 +45,7 @@
 
 **Stack:** React · Next.js · TypeScript · Tailwind CSS · PostgreSQL · Prisma
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simple46/savesmart)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simple46/savesmart)
 
 ---
 
@@ -54,7 +54,7 @@
 
 **Stack:** React · Next.js · TypeScript · Tailwind CSS
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simple46/mealmatch)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simple46/mealmatch)
 
 ---
 
@@ -63,15 +63,15 @@
 
 **Stack:** React · Next.js · TypeScript · Leaflet.js · Tailwind CSS
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simple46/worldwise)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simple46/worldwise)
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simple46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simple46&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Simple46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simple46&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 
 ---
