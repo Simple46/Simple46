@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=160&section=header&text=Hissa&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Frontend%20%26%20Mobile%20Developer&descAlignY=62&descColor=cccccc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=150&section=header&text=Hi,%20I'm%20Hissa&fontSize=45&fontColor=ffffff&fontAlignY=45" width="100%" />
 </div>
 
 <br />
@@ -70,8 +70,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simple46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simple46&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Simple46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simple46&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
