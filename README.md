@@ -45,7 +45,7 @@
 
 **Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma · Python (FastAPI) · Paystack
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simple46/simpra)
+[![View Live](https://img.shields.io/badge/View_Live-link-181717?style=for-the-badge&logo=github&logoColor=white)](https://ehr-system-inky.vercel.app/)
 
 ---
 
