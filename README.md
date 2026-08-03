@@ -45,7 +45,7 @@
 
 **Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma · Python (FastAPI) · Paystack
 
-[![View Live](https://img.shields.io/badge/View_Live-link-181717?style=for-the-badge&logo=github&logoColor=white)](https://ehr-system-inky.vercel.app/)
+[![View Live](https://img.shields.io/badge/View_Live-link-181717?style=for-the-badge&logo=link&logoColor=white)](https://ehr-system-inky.vercel.app/)
 
 ---
 
@@ -54,7 +54,7 @@
 
 **Stack:** React · Node.js · Socket.io · Cloudinary · FFmpeg · Prisma
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simple46/watchparty)
+[![View Live](https://img.shields.io/badge/View_Live-181717?style=for-the-badge&logo=link&logoColor=white)](https://watchparty-app-omega.vercel.app/)
 
 ---
 
